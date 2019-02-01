@@ -1,0 +1,4 @@
+GlassPrice: 300
+Plain: 100
+Ornate: 200
+Lavish: 350
